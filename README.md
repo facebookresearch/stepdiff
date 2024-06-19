@@ -8,6 +8,10 @@ Step Differences in Instructional Video
 [Tushar Nagarajan](https://tushar-n.github.io/), [Lorenzo Torresani](https://ltorresa.github.io/home.html)  
 [[arxiv]](https://arxiv.org/abs/2404.16222) [[openreview]](https://openreview.net/forum?id=3BxYAaovKr) 
 
+#### Video: https://www.youtube.com/watch?v=52AOPbn1BAA
+[![StepDiff video](https://img.youtube.com/vi/52AOPbn1BAA/0.jpg)](https://www.youtube.com/watch?v=52AOPbn1BAA)
+
+
 ## Annotations
 The datasets for the three tasks can be found in the `data/` folder. Each file is a json file with one annotation per line. This data is used for zero-shot evaluation -- there are no training splits. Please see Sec. 4 in the paper for more information. Details about each dataset are below. 
 - Difference Captioning (DiffCap): [`data/diffcap_dataset.jsonl`](data/diffcap_dataset.jsonl)
